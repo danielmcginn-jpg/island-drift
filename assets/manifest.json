@@ -1,0 +1,46 @@
+{
+  "characters": [
+    "char-male.glb",
+    "char-female.glb"
+  ],
+  "nature": [
+    "palm-a.glb",
+    "palm-b.glb",
+    "palm-c.glb",
+    "palm-d.glb",
+    "rock-a.glb",
+    "rock-b.glb",
+    "rock-c.glb",
+    "bush-a.glb",
+    "bush-b.glb",
+    "bush-c.glb",
+    "foliage-sand.glb",
+    "grass-tuft.glb"
+  ],
+  "structures": [
+    "dock.glb",
+    "dock-small.glb",
+    "dock-planks.glb",
+    "dock-long.glb",
+    "shelter.glb",
+    "shelter-roof.glb",
+    "hut-a.glb",
+    "hut-b.glb",
+    "hut-tropic.glb",
+    "bar-shop.glb"
+  ],
+  "props": [
+    "boat.glb",
+    "lounge.glb",
+    "lounge-relax.glb",
+    "stool.glb",
+    "coconut.glb",
+    "barrel.glb",
+    "crate.glb"
+  ],
+  "textures": [
+    "sand.jpg",
+    "grass.jpg",
+    "water-normal.jpg"
+  ]
+}
